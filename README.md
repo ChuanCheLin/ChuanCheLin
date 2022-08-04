@@ -5,13 +5,13 @@
   Application of Region-based Convolution Neural Network on Tea Diseases and Harming Insects Identification: https://elibrary.asabe.org/abstract.asp?aid=52534
 - How to reach me: diamond16888@gmail.com
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 44 Contributions in the Year 2022
  > 
-> 📦 860.4 kB Used in GitHub's Storage 
+> 📦 867.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,7 +80,7 @@ Shell                    1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChuanCheLin/ChuanCheLin/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2022 09:33:40 UTC
+ Last Updated on 04/08/2022 18:44:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
