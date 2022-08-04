@@ -14,3 +14,4 @@ jobs:
       - uses: ChuanCheLin/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
