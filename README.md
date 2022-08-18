@@ -5,7 +5,7 @@
   Application of Region-based Convolution Neural Network on Tea Diseases and Harming Insects Identification: https://elibrary.asabe.org/abstract.asp?aid=52534
 - How to reach me: diamond16888@gmail.com
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-137-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,21 +48,18 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   6 hrs 2 mins        ████████████████████████░   95.89% 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
-RPMSpec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python                   54 mins             ████████████████████████░   99.35% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 🔥 Editors: 
-VS Code                  6 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  54 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-WebTeaPest               3 hrs 57 mins       ████████████████░░░░░░░░░   64.15% 
-model_ui                 2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.85%
+Unknown Project          54 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    6 hrs 10 mins       █████████████████████████   100.0%
+Windows                  54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +79,7 @@ Shell                    1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChuanCheLin/ChuanCheLin/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 18:46:11 UTC
+ Last Updated on 18/08/2022 18:44:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
