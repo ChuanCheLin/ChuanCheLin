@@ -5,7 +5,7 @@
   Application of Region-based Convolution Neural Network on Tea Diseases and Harming Insects Identification: https://elibrary.asabe.org/abstract.asp?aid=52534
 - How to reach me: diamond16888@gmail.com
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,17 +48,17 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   57 mins             █████████████████████████   100.0%
+Python                   1 hr 41 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.0%
+VS Code                  1 hr 41 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-2021 Fall                47 mins             ████████████████████░░░░░   82.9% 
-Unknown Project          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.1%
+Unknown Project          53 mins             █████████████░░░░░░░░░░░░   53.1% 
+2021 Fall                47 mins             ███████████░░░░░░░░░░░░░░   46.9%
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.0%
+Windows                  1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChuanCheLin/ChuanCheLin/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 18:48:24 UTC
+ Last Updated on 14/09/2022 18:49:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
